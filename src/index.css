@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  justify-content: center;
+  gap:13px;
+}
+/* .heading{
+  display: flex;
+  color: aqua;
+} */
+span{
+  font-size: 55px;
+  cursor: pointer;
+}
+
+.colored{
+  color: rgba(255, 94, 0, 0.86);
+}
+
+.unColor{
+  color: black;
+}
